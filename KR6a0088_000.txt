@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 優陂夷墮舍迦經
+#+DATE: 2015-08-30 19:30:33.846325
+#+PROPERTY: JUAN 0
